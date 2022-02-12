@@ -40,6 +40,7 @@ const ShortcutTemplate xfwm4_shortcut_values[] = {
   { N_("Right"), "right_key" },
   { N_("Cancel"), "cancel_key" },
   { N_("Cycle windows"), "cycle_windows_key" },
+  { N_("Cycle windows (Keep open)"), "cycle_keep_windows_key" },
   { N_("Cycle windows (Reverse)"), "cycle_reverse_windows_key" },
   { N_("Switch window for same application"), "switch_window_key" },
   { N_("Switch application"), "switch_application_key" },
